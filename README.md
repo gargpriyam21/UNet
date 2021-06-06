@@ -9,5 +9,3 @@ The architecture was inspired by [U-Net: Convolutional Networks for Biomedical I
 ![img/u-net-architecture.png](img/u-net-architecture.png)
 
 This deep neural network is implemented with Keras and PyTorch functional API, which makes it extremely easy to experiment with different interesting architectures.
-
-Hello
